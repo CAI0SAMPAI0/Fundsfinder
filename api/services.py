@@ -23,5 +23,5 @@ def buscar_cotacao(codigo: str) -> dict | None:
         if resultados:
             cotacao = resultados[0].get("meta")
             cache.set(chave_cache, cotacao, timeout=60 * 60 * 24)
-        return cotacao
+            return cotacao
     return None
