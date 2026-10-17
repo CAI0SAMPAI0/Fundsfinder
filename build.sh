@@ -13,3 +13,4 @@ python manage.py migrate
 
 # Carrega os fundos iniciais
 python manage.py loaddata fundos_fixtures.json
+
