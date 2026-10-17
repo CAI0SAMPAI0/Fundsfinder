@@ -1,0 +1,302 @@
+[
+{
+  "model": "api.fundoimobiliario",
+  "pk": "023d60dc-0032-4895-b4df-3e689ad74560",
+  "fields": {
+    "codigo": "KNCR11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "12.40",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "161aaef3-a2e3-438d-ae5e-9fba1a88be00",
+  "fields": {
+    "codigo": "MXRF11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "12.10",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "170c30b1-0004-49e4-af0a-18b4c44490c8",
+  "fields": {
+    "codigo": "NSLU11",
+    "setor": "hospital",
+    "dividend_yield_medio_12m": "11.10",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 1
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "264c3bcf-2fdb-4e41-bf93-bad02ec87f84",
+  "fields": {
+    "codigo": "KNSC11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "11.50",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "2f1d89a5-2885-4cc4-9f0b-3c2d9453e2f6",
+  "fields": {
+    "codigo": "TGAR11",
+    "setor": "outros",
+    "dividend_yield_medio_12m": "13.80",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "328d75ed-9776-4fd2-8ea2-c5700ace40fe",
+  "fields": {
+    "codigo": "VGIR11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "13.10",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "32fe78eb-a82e-4e61-b022-58f243ea3716",
+  "fields": {
+    "codigo": "VILG11",
+    "setor": "logistica",
+    "dividend_yield_medio_12m": "8.60",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "1.10",
+    "quantidade_ativos": 16
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "40dbb2a8-a6f7-4d5f-9e98-a6482bb9141b",
+  "fields": {
+    "codigo": "HGRE11",
+    "setor": "lajes_corporativas",
+    "dividend_yield_medio_12m": "9.40",
+    "vacancia_financeira": "16.00",
+    "vacancia_fisica": "19.30",
+    "quantidade_ativos": 16
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "5aad74a8-e75b-4cc7-bf35-bbf1944a3d6e",
+  "fields": {
+    "codigo": "GARE11",
+    "setor": "hibrido",
+    "dividend_yield_medio_12m": "11.20",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 11
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "60b7c2ad-a9fd-4626-b7c1-1ed4f992b103",
+  "fields": {
+    "codigo": "CPTS11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "11.80",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "647291ae-ec1f-4b38-b5df-4a930ebfac2d",
+  "fields": {
+    "codigo": "HTMX11",
+    "setor": "hotel",
+    "dividend_yield_medio_12m": "14.30",
+    "vacancia_financeira": "31.00",
+    "vacancia_fisica": "32.00",
+    "quantidade_ativos": 22
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "6a321a2e-68a9-44e1-8ff9-094b1399d23f",
+  "fields": {
+    "codigo": "HGBS11",
+    "setor": "hibrido",
+    "dividend_yield_medio_12m": "8.75",
+    "vacancia_financeira": "5.10",
+    "vacancia_fisica": "6.00",
+    "quantidade_ativos": 18
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "6c136bf8-33ef-4395-816c-1334ace1d81f",
+  "fields": {
+    "codigo": "XPML11",
+    "setor": "hibrido",
+    "dividend_yield_medio_12m": "9.20",
+    "vacancia_financeira": "3.50",
+    "vacancia_fisica": "4.10",
+    "quantidade_ativos": 17
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "9c3687d4-6f5c-41fc-b680-2bd5e6b81a34",
+  "fields": {
+    "codigo": "XPCA11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "14.50",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "a9f6e84a-bb31-4e2b-bfce-46e0e4d05681",
+  "fields": {
+    "codigo": "HGRS11",
+    "setor": "residencial",
+    "dividend_yield_medio_12m": "7.60",
+    "vacancia_financeira": "8.00",
+    "vacancia_fisica": "10.50",
+    "quantidade_ativos": 4
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "b128ab97-b725-40d9-9866-7918ce0d7b96",
+  "fields": {
+    "codigo": "VISC11",
+    "setor": "hibrido",
+    "dividend_yield_medio_12m": "8.90",
+    "vacancia_financeira": "4.20",
+    "vacancia_fisica": "5.00",
+    "quantidade_ativos": 25
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "bda0a84d-e4f0-49a2-bf6a-9f3f5db59c8b",
+  "fields": {
+    "codigo": "BTCI11",
+    "setor": "titulos_valores_mobiliarios",
+    "dividend_yield_medio_12m": "12.80",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 0
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "c8996a03-17e9-4a50-a0a0-877032dd7746",
+  "fields": {
+    "codigo": "KNRI11",
+    "setor": "hibrido",
+    "dividend_yield_medio_12m": "8.15",
+    "vacancia_financeira": "3.12",
+    "vacancia_fisica": "2.85",
+    "quantidade_ativos": 20
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "cd955a9c-0326-4f23-b48e-3e5d4743991d",
+  "fields": {
+    "codigo": "HGLG11",
+    "setor": "logistica",
+    "dividend_yield_medio_12m": "8.45",
+    "vacancia_financeira": "6.20",
+    "vacancia_fisica": "6.50",
+    "quantidade_ativos": 24
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "dbddf257-a5fa-41f2-950d-accd2d57347a",
+  "fields": {
+    "codigo": "XPLG11",
+    "setor": "logistica",
+    "dividend_yield_medio_12m": "8.80",
+    "vacancia_financeira": "2.30",
+    "vacancia_fisica": "3.20",
+    "quantidade_ativos": 13
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "e7ccc69d-0802-49b5-910b-dfdea4025421",
+  "fields": {
+    "codigo": "BTLG11",
+    "setor": "logistica",
+    "dividend_yield_medio_12m": "9.10",
+    "vacancia_financeira": "2.00",
+    "vacancia_fisica": "2.10",
+    "quantidade_ativos": 34
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "f1615cda-339d-42c6-8779-b1d92f20f908",
+  "fields": {
+    "codigo": "BRCR11",
+    "setor": "lajes_corporativas",
+    "dividend_yield_medio_12m": "9.80",
+    "vacancia_financeira": "18.50",
+    "vacancia_fisica": "21.00",
+    "quantidade_ativos": 12
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "fa17912e-8e31-4dba-b8be-29d4566e3de8",
+  "fields": {
+    "codigo": "PVBI11",
+    "setor": "lajes_corporativas",
+    "dividend_yield_medio_12m": "8.70",
+    "vacancia_financeira": "1.50",
+    "vacancia_fisica": "1.80",
+    "quantidade_ativos": 6
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "fd6c553e-8791-46b5-b162-7585ae966707",
+  "fields": {
+    "codigo": "JSRE11",
+    "setor": "lajes_corporativas",
+    "dividend_yield_medio_12m": "8.50",
+    "vacancia_financeira": "8.20",
+    "vacancia_fisica": "11.40",
+    "quantidade_ativos": 5
+  }
+},
+{
+  "model": "api.fundoimobiliario",
+  "pk": "fef6be15-4e75-4d41-8c84-676b4283bd47",
+  "fields": {
+    "codigo": "HCRI11",
+    "setor": "hospital",
+    "dividend_yield_medio_12m": "10.25",
+    "vacancia_financeira": "0.00",
+    "vacancia_fisica": "0.00",
+    "quantidade_ativos": 1
+  }
+}
+]

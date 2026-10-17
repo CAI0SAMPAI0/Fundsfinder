@@ -1,0 +1,19 @@
+# Configuração para o Ruff
+[tool.ruff]
+# Arquivos e pastas a serem completamente ignorados pelo Ruff (linting e formatação)
+exclude = [
+    ".venv",
+    "venv",
+    "*/migrations/*.py",
+    "manage.py",
+]
+
+# Configuração para o Black
+[tool.black]
+# Padrão de expressão regular (regex) para ignorar arquivos e pastas no Black
+extend-exclude = '''
+^/manage\.py$
+| ^/\.venv/
+| ^/venv/
+| /migrations/
+'''
